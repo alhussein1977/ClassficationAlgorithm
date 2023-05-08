@@ -1,0 +1,10 @@
+Color Fragrance_Ratio Season Days used_medically
+Red <50% Autumn <30 No
+Yellow 51%...75% Winter 31-45 Yes
+White <50% Spring 31-45 Yes
+Red <50% Autumn 31-45 Yes
+White >75% Spring <30 No
+Green 51%...75% Winter 31-45 No
+Yellow >75% Autumn <30 No
+Green 51%...75% Winter <30 Yes
+Red >75% Spring 31-45 Yes

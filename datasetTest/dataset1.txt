@@ -1,0 +1,15 @@
+Age Income Student CrdtRtig BuysComput
+<=30 high no fair No
+<=30 high no excell No
+31..40 high no fair Yes
+>40 medium no fair Yes
+>40 low yes fair Yes
+>40 low yes excell No
+31..40 low yes excell Yes
+<=30 medium no fair No
+<=30 low yes fair Yes
+>40 medium yes fair Yes
+<=30 medium yes excell Yes
+31..40 medium no excell Yes
+31..40 high yes fair Yes
+>40 medium no excell No

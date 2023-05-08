@@ -1,0 +1,11 @@
+Rank Years Tenured
+AssistantProf <6 No
+AssistantProf >6 Yes
+Professor <6 Yes
+AssistantProf >6 Yes
+AssistantProf <6 No
+AssistantProf <6 No
+AssistantProf <6 No
+AssistantProf >6 No
+Professor <6 Yes
+AssistantProf >6 Yes
